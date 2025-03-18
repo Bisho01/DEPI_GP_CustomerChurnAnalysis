@@ -29,6 +29,3 @@ The analysis includes:
 - 🔍 **Data cleaning and preprocessing**
 - 📈 **Statistical summaries**
 - 📊 **Data visualization** (correlations, distributions, feature importance)
-
-- ## ✍️ Author
-I'm [**Bishoy Emad**](https://github.com/Bisho01), the creator of this project.
